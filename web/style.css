@@ -1,0 +1,12 @@
+#topbar h1{
+    text-align: center;
+}
+topbar div *{
+    text-align: right;
+}
+h1{
+    color: red;
+}
+p{
+   color: red; 
+}
